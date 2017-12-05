@@ -32,7 +32,7 @@ For detailed instructions on installing .Net Core visit [official step-by-step i
 
 ## Quick Install Guide
 
-To install VS Code please visit https://code.visualstudio.com/
+To install VS Code please visit [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Ionide plugins for VS Code can be installed using new [VS Code extension gallery](https://marketplace.visualstudio.com/#VSCode) - [Ionide-fsharp](https://marketplace.visualstudio.com/items/Ionide.Ionide-fsharp) is one of the featured extensions there, and there are also individual plugins for [Paket](https://marketplace.visualstudio.com/items/Ionide.Ionide-Paket) and [FAKE](https://marketplace.visualstudio.com/items/Ionide.Ionide-FAKE).
 
