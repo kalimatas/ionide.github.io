@@ -26,7 +26,7 @@ On **Windows** MsBuild 2015 needs to be installed. You can download it [here](ht
 
 ### .Net Core - Optional
 
-We also recomend installing .Net Core, even if you plan to target Full .Net Framework. Several features such as debugging, and project scaffolding are using features avaliable only for new, SDK-based project files.
+We also recomend installing .Net Core, even if you plan to target Full .Net Framework. Several features such as debugging, and project scaffolding are using features available only for new, SDK-based project files.
 
 For detailed instructions on installing .Net Core visit [official step-by-step installation guide](https://www.microsoft.com/net/core)
 
